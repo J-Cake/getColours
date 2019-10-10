@@ -1,0 +1,12 @@
+{
+  "name": "node_gui",
+  "scripts": {
+    "launch": "node launch-win",
+    "postinstall": "node compile.js"
+  },
+  "dependencies": {
+    "ansi-to-html": "^0.6.11",
+    "websocket": "^1.0.30",
+    "ws": "^7.1.2"
+  }
+}
