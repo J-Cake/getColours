@@ -1,5 +1,5 @@
 {
-  "name": "@klauss.net/getColours",
+  "name": "@klauss.net/get_colours",
   "private": false,
   "scripts": {
     "launch": "node launch-win",
