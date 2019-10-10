@@ -1,5 +1,6 @@
 {
   "name": "@klauss.net/getColours",
+  "private": false,
   "scripts": {
     "launch": "node launch-win",
     "postinstall": "node compile.js"
