@@ -1,5 +1,5 @@
 {
-  "name": "getColours",
+  "name": "@klauss.net/getColours",
   "scripts": {
     "launch": "node launch-win",
     "postinstall": "node compile.js"
@@ -8,5 +8,6 @@
     "ansi-to-html": "^0.6.11",
     "websocket": "^1.0.30",
     "ws": "^7.1.2"
-  }
+  },
+  "version": "1.0.0"
 }
