@@ -1,5 +1,5 @@
 {
-  "name": "node_gui",
+  "name": "getColours",
   "scripts": {
     "launch": "node launch-win",
     "postinstall": "node compile.js"
