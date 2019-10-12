@@ -1,6 +1,6 @@
 #include <windows.h>
 
-#include <gdiplus.h>
+// #include <gdiplus.h>
 #include <node.h>
 #include <v8.h>
 #include <Windows10Colours.h>
